@@ -1,5 +1,9 @@
-h1 {
+body {
     font-family: 'Comfortaa', cursive;
+    margin: 0%;
+}
+
+h1 {
     font-size: 50px;
 }
 
@@ -21,7 +25,9 @@ section {
 }
 
 .image img {
-    width: 90%;
+    width: 80%;
+    padding-left: 15%;
+    padding-top: 5%;
 }
 
 .link1 {
@@ -31,4 +37,9 @@ section {
     padding: 10px 20px;
     border-radius: 10px;
 
+}
+
+.top-banner {
+    background-image: url(picture/top-banner.png);
+    background-repeat: no-repeat;
 }
