@@ -17,6 +17,7 @@ p {
 
 section {
     display: flex;
+    margin-bottom: 50px;
 }
 
 .div1 {
@@ -42,4 +43,10 @@ section {
 .top-banner {
     background-image: url(picture/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.middle-banner {
+    background-image: url(picture/middle-banner.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
