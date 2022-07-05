@@ -50,3 +50,9 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+footer {
+    background-color: cornflowerblue;
+    padding: 10px;
+    text-align: center;
+}
